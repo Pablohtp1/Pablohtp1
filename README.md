@@ -36,7 +36,7 @@ Desenvolvedor entusiasta de tecnologias de ponta, atualmente focado em **intelig
 
 ### 🌐 Conecte-se Comigo:
 
-- **LinkedIn**: [Pablo Ruan](https://www.linkedin.com/in/seu-linkedin/)
+- **LinkedIn**: [Pablo Ruan](https://www.linkedin.com/in/pablo-ruan-64688a19a/)
 - **GitHub**: [Pablohtp1](https://github.com/Pablohtp1)
 
 ---
