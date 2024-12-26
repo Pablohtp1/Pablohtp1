@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Pablo Ruan.
 
-Desenvolvedor entusiasta de tecnologias de ponta, atualmente focado em **inteligência artificial**, **JavaScript** e **Python**. Busco criar soluções inteligentes e automatizadas que otimizam fluxos de trabalho e processos empresariais.
+Desenvolvedor entusiasta de tecnologias de ponta, atualmente focado em **Machine Learning**, e **Python**. Busco criar soluções inteligentes e automatizadas que otimizam fluxos de trabalho e processos empresariais.
 
 ### 🚀 Áreas de Interesse e Especialização:
 
