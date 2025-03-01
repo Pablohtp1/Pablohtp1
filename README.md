@@ -19,11 +19,11 @@ Desenvolvedor entusiasta.
   <img align="center" alt="Pablo-GitHub" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
   <img align="center" alt="Pablo-VSCode" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Pablo-ChatGPT" heigth="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg">
-  <img align="center" alt="Pablo-Copilot" heigth="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/GitHub_Copilot_logo.svg/768px-GitHub_Copilot_logo.svg.png">
-  <img align="center" alt="Pablo-Supabase" heigth="30" width="40" src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png">
+  <img align="center" alt="Pablo-Copilot" height="30" width="40" src="https://github.com/github-copilot.png">
+  <img align="center" alt="Pablo-Supabase" height="30" width="40" src="https://supabase.com/brand-assets/supabase-logo-icon.png">
   <img align="center" alt="Pablo-Firebase" heigth="30" width="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
   <img align="center" alt="Pablo-Dart" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  <img align="center" alt="Pablo-Flutter" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Pablo-Flutterflow" height="30" width="40" src="https://www.flutterflow.io/images/brand/flutterflow-icon.png">
   <img align="center" alt="Pablo-Flutterflow" heigth="30" width="40" src="https://storage.googleapis.com/flutterflow-logo/logo256.png">
 </div>
 ---
