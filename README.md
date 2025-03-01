@@ -1,27 +1,31 @@
 # 👋 Olá! Eu sou o Pablo Ruan.
 
-Desenvolvedor entusiasta de tecnologias de ponta, atualmente focado em **Machine Learning**, e **Python**. Busco criar soluções inteligentes e automatizadas que otimizam fluxos de trabalho e processos empresariais.
+Desenvolvedor entusiasta.
 
 ### 🚀 Áreas de Interesse e Especialização:
 
-- **Desenvolvimento de Inteligência Artificial** com foco em **ChatGPT** e integração de IA.
-- **Desenvolvimento Web** com **JavaScript**, frameworks modernos e automação.
-- **Automação e Scripts** em **Python** para resolver problemas complexos com simplicidade.
-- **Integração de APIs** e construção de soluções escaláveis e eficientes.
+- **Faço umas brincadeiras** no **ChatGPT**.
+- **Fiz umas brincadeiras** com **JavaScript**.
+- **Gosto de umas bugigangas** em **Python** para resolver problemas complexos com simplicidade.
+- **Estou desenrolando uns aprendizado em Api** e construção de soluções escaláveis e eficientes.
 
 ---
 
-### 🛠️ Tecnologias que uso no meu dia a dia:
+### 📚 Tecnologias e ferramentas que estudo e aplico  
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Pablo-Js" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pablo-Python" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Pablo-Git" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img align="center" alt="Pablo-NodeJS" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Pablo-Docker" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Pablo-GitHub" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  <img align="center" alt="Pablo-VSCode" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Pablo-ChatGPT" heigth="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg">
+  <img align="center" alt="Pablo-Copilot" heigth="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/GitHub_Copilot_logo.svg/768px-GitHub_Copilot_logo.svg.png">
+  <img align="center" alt="Pablo-Supabase" heigth="30" width="40" src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png">
+  <img align="center" alt="Pablo-Firebase" heigth="30" width="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
+  <img align="center" alt="Pablo-Dart" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+  <img align="center" alt="Pablo-Flutter" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Pablo-Flutterflow" heigth="30" width="40" src="https://storage.googleapis.com/flutterflow-logo/logo256.png">
 </div>
-
 ---
 
 ### ⚡ GitHub Stats:
