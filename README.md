@@ -39,6 +39,4 @@ Desenvolvedor entusiasta de tecnologias de ponta, atualmente focado em **Machine
 - **LinkedIn**: [Pablo Ruan](https://www.linkedin.com/in/pablo-ruan-64688a19a/)
 - **GitHub**: [Pablohtp1](https://github.com/Pablohtp1)
 
----
-
-💻 Sempre buscando novas oportunidades para colaborar em projetos desafiadores e interessantes, especialmente nas áreas de **inteligência artificial** e **desenvolvimento de software**.
+--
