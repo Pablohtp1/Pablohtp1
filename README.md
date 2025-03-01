@@ -45,10 +45,9 @@
 ---
 
 ## **📫 Conecte-se Comigo**
-📩 **Email:** [seuemail@email.com](mailto:seuemail@email.com)  
-🔗 **LinkedIn:** [linkedin.com/in/pabloruanaraujo](https://linkedin.com/in/pabloruanaraujo)  
-🐦 **Twitter:** [@seuuser](https://twitter.com/seuuser)  
+📩 **Email:** [pablo.umid@outlook.com](mailto:pablo.umid@outlook.com)  
+🔗 **LinkedIn:** [linkedin.com/in/pabloruanaraujo](https://linkedin.com/in/pabloruanaraujo)   
 
 ---
 
-✨ **"Transformando código em soluções!"** 🚀
+ **"TECNOLÓGIA SALVOU A MINHA VIDA"** 
