@@ -1,41 +1,54 @@
-# 👋 Olá! Eu sou o Pablo Ruan.
+# 🚀 Pablo Ruan  
 
-Desenvolvedor entusiasta.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=500&height=50&lines=Lider+Execução+%7C+Construtor+Vendas)](https://github.com/Pablohtp1)
 
-### 🚀 Áreas de Interesse e Especialização:
+📍 **Aracaju 🌴☀️**  
 
-- **Faço umas brincadeiras** no **ChatGPT**.
-- **Fiz umas brincadeiras** com **JavaScript**.
-- **Gosto de umas bugigangas** em **Python** para resolver problemas complexos com simplicidade.
-- **Estou desenrolando uns aprendizado em Api** e construção de soluções escaláveis e eficientes.
-
----
-
-### 📚 Tecnologias e ferramentas que estudo e aplico  
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Pablo-Python" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Pablo-Git" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img align="center" alt="Pablo-GitHub" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-  <img align="center" alt="Pablo-VSCode" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Pablo-ChatGPT" heigth="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg">
-  <img align="center" alt="Pablo-Firebase" heigth="30" width="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
-  <img align="center" alt="Pablo-Dart" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-
-</div>
-
-### ⚡ GitHub Stats:
-
-<div>
-<a href="https://github.com/Pablohtp1">
-<img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Pablohtp1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablohtp1&layout=compact&langs_count=10&theme=dark"/>
+<div align="center">
+  <img src="https://img.shields.io/badge/Position-Mobile%20Developer-blue?style=for-the-badge&logo=flutter" alt="Mobile Developer Badge">
+  <img src="https://img.shields.io/badge/Position-Machine%20Learning%20Engineer-green?style=for-the-badge&logo=pytorch" alt="Machine Learning Engineer Badge">
 </div>
 
 ---
 
-### 🌐 Conecte-se Comigo:
+## 🎖 **Reputação & Conquistas**  
 
-- **LinkedIn**: [Pablo Ruan](https://www.linkedin.com/in/pablo-ruan-64688a19a/)
-- **GitHub**: [Pablohtp1](https://github.com/Pablohtp1)
+<div align="center">
+  <img src="https://img.shields.io/badge/Reputation-1230-blueviolet?style=for-the-badge&logo=stackoverflow" alt="Reputation Badge">
+  <img src="https://img.shields.io/badge/Answers-57-yellow?style=for-the-badge&logo=stackoverflow">
+  <img src="https://img.shields.io/badge/Questions-2-orange?style=for-the-badge&logo=stackoverflow">
+  <img src="https://img.shields.io/badge/Profile%20Views-544-lightblue?style=for-the-badge&logo=github">
+</div>
 
+---
+
+## **🛠️ Tecnologias que Uso**
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" alt="Microsoft Teams">
+  <img src="https://img.shields.io/badge/Microsoft%20Planner-107C41?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Planner">
+  <img src="https://img.shields.io/badge/WYSIWYG-FF7F50?style=for-the-badge&logo=wysiwyg&logoColor=white" alt="WYSIWYG">
+</div>
+
+---
+
+## **📊 GitHub Stats**
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Pablohtp1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablohtp1&layout=compact&theme=dark"/>
+</div>
+
+---
+
+## **📫 Conecte-se Comigo**
+📩 **Email:** [seuemail@email.com](mailto:seuemail@email.com)  
+🔗 **LinkedIn:** [linkedin.com/in/pabloruanaraujo](https://linkedin.com/in/pabloruanaraujo)  
+🐦 **Twitter:** [@seuuser](https://twitter.com/seuuser)  
+
+---
+
+✨ **"Transformando código em soluções!"** 🚀
