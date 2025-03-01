@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=500&height=50&lines=Lider+Execução+%7C+Construtor+Vendas)](https://github.com/Pablohtp1)
 
-📍 **Aracaju 🌴☀️**  
+📍 **Aracaju/SE 🌴☀️**  
 
 <div align="center">
   <img src="https://img.shields.io/badge/Position-Mobile%20Developer-blue?style=for-the-badge&logo=flutter" alt="Mobile Developer Badge">
